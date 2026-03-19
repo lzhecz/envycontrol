@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **Project Status**  
+> 
+> Hi! I'm [Victor](https://github.com/bayasdev), the original author of EnvyControl. I built this over a weekend in 2021 because there wasn't any reliable solution to properly disable the Nvidia GPU that was draining my Acer Predator Helios 300's battery. I used it heavily back then, but I switched to macOS full-time and no longer run Linux daily, so I can't provide timely bug fixes, new features, or real support anymore.
+> 
+> That said, EnvyControl still works well for many people on recent distros, thanks to the many PRs I've received over the years. I'm happy to transfer ownership to an active OSS initiative focused on building tools for the greater Linux ecosystem.
+> 
+> Thanks for all the support over the years! ❤️
+>
+> PS: If I built this today, I'd probably use Go or Rust :)
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bayasdev/envycontrol/raw/main/logos/dark.png">
