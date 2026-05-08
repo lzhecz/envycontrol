@@ -12,6 +12,7 @@
           pname = "envycontrol";
           version = "3.5.2";
           src = self;
+          format = "setuptools";
         };
         default = self.packages.${system}.envycontrol;
       };
